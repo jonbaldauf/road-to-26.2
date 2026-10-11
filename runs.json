@@ -89,6 +89,15 @@
       "created": "2026-10-08T02:09:25.536Z",
       "meters": 2462.29632,
       "elevM": 19.5072
+    },
+    {
+      "id": "r-2026-10-10-59dp",
+      "date": "2026-10-10",
+      "seconds": 2862,
+      "notes": "gravel in shoe, bleeding heel",
+      "created": "2026-10-11T05:30:36.322Z",
+      "meters": 10090.586879999999,
+      "elevM": 126.7968
     }
   ]
 }
