@@ -107,6 +107,15 @@
       "created": "2026-10-30T22:03:56.451Z",
       "meters": 1641.53088,
       "elevM": 0
+    },
+    {
+      "id": "r-2026-11-02-r26d",
+      "date": "2026-11-02",
+      "seconds": 2536,
+      "notes": "new running shoes; ankle sprain recovery",
+      "created": "2026-11-02T23:16:57.752Z",
+      "meters": 9302.00832,
+      "elevM": 116.73840000000001
     }
   ]
 }
